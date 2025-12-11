@@ -86,9 +86,9 @@ pip install pandas numpy matplotlib seaborn plotly scikit-learn jupyter
 
 ## Author
 
-Your Name
-- GitHub: @yourusername
-- LinkedIn: Your LinkedIn Profile
+Devi S
+- GitHub: @devisenthilkumar26
+- LinkedIn: www.linkedin.com/in/devikumargs
 
 ---
 
