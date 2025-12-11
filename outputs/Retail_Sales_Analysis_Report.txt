@@ -1,0 +1,89 @@
+======================================================================
+          RETAIL SALES DATA ANALYSIS & CUSTOMER SEGMENTATION
+                    COMPREHENSIVE BUSINESS REPORT
+======================================================================
+
+Report Generated: 2025-12-11 12:43:14
+Analysis Period: 2014-01-03 to 2017-12-30
+Analyst: Data Science Project
+
+
+======================================================================
+1. EXECUTIVE SUMMARY
+======================================================================
+
+Total Transactions: 9,994
+Total Customers: 793
+Total Revenue: $2,297,200.86
+Total Profit: $286,397.02
+Overall Profit Margin: 12.47%
+
+======================================================================
+2. KEY FINDINGS
+======================================================================
+
+2.1 Category Performance:
+   - Furniture: $742,000 sales, 2.49% margin
+   - Office Supplies: $719,047 sales, 17.04% margin
+   - Technology: $836,154 sales, 17.40% margin
+
+2.2 Customer Segmentation:
+   - Total customers segmented: 793
+   - Number of segments: 4
+   - Loyal Customers: 294 customers (37.1%)
+   - At Risk: 248 customers (31.3%)
+   - Potential Loyalists: 194 customers (24.5%)
+   - Champions: 57 customers (7.2%)
+
+2.3 Discount Impact:
+   - Orders with 30%+ discount showing average loss: $-107.21
+   - Optimal discount range: 0-20%
+
+======================================================================
+3. STRATEGIC RECOMMENDATIONS
+======================================================================
+
+3.1 Optimize Discount Strategy
+   - Cap maximum discount at 20%
+   - Implement tiered discount structure
+   - Expected impact: 8-12% profit increase
+
+3.2 Focus on Furniture Category
+   - Review supplier pricing
+   - Target margin increase to 8-10%
+   - Expected impact: $40,000-$60,000 additional profit
+
+3.3 Customer Retention Program
+   - VIP program for Champions
+   - Loyalty points for regular customers
+   - Expected impact: 15-20% churn reduction
+
+3.4 Prioritize High-Value Customers
+   - Dedicated account managers
+   - Priority customer service
+   - Expected impact: $300,000-$400,000 additional revenue
+
+3.5 Seasonal Inventory Planning
+   - Increase inventory before peak months
+   - Pre-order campaigns for Q4
+   - Expected impact: $150,000 additional peak season sales
+
+
+======================================================================
+4. KEY PERFORMANCE INDICATORS TO TRACK
+======================================================================
+
+Financial Metrics:
+   - Revenue Growth Target: +20-25%
+   - Profit Growth Target: +30-35%
+   - Margin Improvement Target: 12.47% to 14.34%
+
+Customer Metrics:
+   - Customer Retention Target: 85%+
+   - CLV Growth Target: +25%
+   - Repeat Purchase Rate Target: +10%
+
+
+======================================================================
+END OF REPORT
+======================================================================
